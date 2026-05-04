@@ -1,4 +1,6 @@
-<img width="1983" height="793" alt="ChatGPT Image 4 de mai  de 2026, 11_34_23" src="https://github.com/user-attachments/assets/d636b540-fda4-4963-b0e2-79bd2fe37712" />
+<p align="center">
+  <img alt="Banner Cauã Milfont" src="https://github.com/user-attachments/assets/d636b540-fda4-4963-b0e2-79bd2fe37712" />
+</p>
 
 # Olá, eu sou o Cauã! 👋
 
@@ -56,7 +58,7 @@ Acredito que um bom código deve vir acompanhado de uma ótima interface. Utiliz
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SUO-LINK-DO-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casllostreetwear12@gmail.com)
 
 ---
