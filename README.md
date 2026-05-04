@@ -33,12 +33,11 @@ Sou um entusiasta de tecnologia e desenvolvedor em constante evolução, atualme
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
 ---
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauamilfont&show_icons=true&theme=dracula&include_all_commits=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamilfont&layout=compact&langs_count=7&theme=dracula&v=1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cauamilfont&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauamilfont&theme=dracula"/>
 </p>
 
 ---
