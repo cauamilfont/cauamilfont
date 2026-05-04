@@ -1,9 +1,10 @@
+<img width="1983" height="793" alt="ChatGPT Image 4 de mai  de 2026, 11_34_23" src="https://github.com/user-attachments/assets/d636b540-fda4-4963-b0e2-79bd2fe37712" />
 
 # Olá, eu sou o Cauã! 👋
 
-### 🚀 Estudante de ADS @ UNIFOR | Estagiário de Desenvolvimento @ AESP-CE
+### 🚀 Estudante de ADS na Unifor | Estagiário de Desenvolvimento da AESP-CE
 
-Sou um entusiasta de tecnologia e desenvolvedor em constante evolução, atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas. Meu foco é construir soluções robustas, escaláveis e com design centrado no usuário. No momento, aplico meus conhecimentos em projetos reais na Academia de Engenharia de Segurança Pública do Ceará (AESP/CE).
+Sou um entusiasta de tecnologia e desenvolvedor em constante evolução, atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas. Meu foco é construir soluções robustas, escaláveis e com design centrado no usuário. No momento, aplico meus conhecimentos em projetos reais na Academia Estadual de Segurança Pública do Ceará (AESP/CE).
 
 ---
 
