@@ -43,13 +43,13 @@ const caua = {
     "UI Design 🎨",
     "Tecnologia 💻",
     "Academia 🏋️",
-    "Café ☕"
+    "Video Game 🎮"
   ]
 }
 ```
 
 💡 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente atuo no desenvolvimento e manutenção de sistemas governamentais na **AESP/CE**, aplicando conhecimentos modernos em frontend, backend e UI/UX.
+Atualmente atuo no desenvolvimento e manutenção de sistemas governamentais na **AESP/CE**, aplicando conhecimentos modernos em frontend, backend e UI.
 
 <br clear="right"/>
 
@@ -93,17 +93,27 @@ Atualmente atuo no desenvolvimento e manutenção de sistemas governamentais na 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauamilfont&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=cauamilfont&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamilfont&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamilfont&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauamilfont&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=cauamilfont&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauamilfont&theme=tokyonight"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauamilfont&theme=tokyonight"
+  />
 </p>
 
 ---
