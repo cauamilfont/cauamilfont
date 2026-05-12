@@ -139,7 +139,7 @@ Por isso, gosto de prototipar interfaces no **Figma** antes do desenvolvimento, 
 
 # 🧩 Atualmente Explorando
 
-- ☕ Spring Boot avançado
+- ☕ React avançado
 - ⚡ Arquitetura Limpa
 - 🧠 Design Patterns
 - 🚀 NestJS
