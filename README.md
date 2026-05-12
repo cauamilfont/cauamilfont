@@ -16,12 +16,9 @@
 
 # 🌌 Sobre Mim
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-# 🌌 Sobre Mim
-
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-javascript
+```javascript
 const caua = {
   nome: "Cauã Milfont",
   formação: "Análise e Desenvolvimento de Sistemas",
@@ -53,6 +50,8 @@ const caua = {
 
 💡 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente atuo no desenvolvimento e manutenção de sistemas governamentais na **AESP/CE**, aplicando conhecimentos modernos em frontend, backend e UI/UX.
+
+<br clear="right"/>
 
 ---
 
