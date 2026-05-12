@@ -2,7 +2,7 @@
   <img alt="Banner Cauã Milfont" src="https://github.com/user-attachments/assets/d636b540-fda4-4963-b0e2-79bd2fe37712" />
 </p>
 
-# Olá, eu sou o Cauã! 👋
+# Hi, I'm Cauã! 👋
 
 ### 🚀 Estudante de ADS na Unifor | Estagiário de Desenvolvimento da AESP-CE
 
@@ -44,9 +44,10 @@ Sou um entusiasta de tecnologia e desenvolvedor em constante evolução, atualme
 
 ## 💼 Experiência Atual
 **Estagiário de Desenvolvimento - AESP CE**
-* Atuação no desenvolvimento e manutenção de sistemas governamentais.
+* Atuação no desenvolvimento e manutenção de sistemas legado do governo.
 * Experiência prática com **PHP (CodeIgniter 3)** e controle de versão via **SVN**.
 * Colaboração em arquitetura de banco de dados SQL.
+* Construção de novos sistemas em React TypeScript e NestJS e controle de versão via **GITHUB**.
 
 ---
 
@@ -57,8 +58,8 @@ Acredito que um bom código deve vir acompanhado de uma ótima interface. Utiliz
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casllostreetwear12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauamilfont/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamilfonttt.com)
 
 ---
 <p align="center">
